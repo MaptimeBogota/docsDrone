@@ -24,6 +24,23 @@ Como parte de estos documentos tenemos:
   * Wiki de este proyecto: ToDo
 * Matriz de riesgos.
  * ToDo
+* Apéndices y documentación necesaria para el registro como Explotador de UAS/Drones ante Aerocivil.
+ * ToDo
+* Documentos para registro como piloto.
+ * ToDo
+* Documentos para registro de UAS.
+ * ToDo
+* Documentos para solicitud de vuelo.
+ * ToDo
+
+# Procesos
+
+El proceso de registro y de vuelo de drones requiere un proceso en el que incluye tener unos documentos.
+En el wiki están descritos los procesos necesarios.
+
+* Proceso de registro como explotador y operador de drones.
+* Proceso de registro de piloto.
+* Proceso de registro de UAS.
 
 # Notas
 
