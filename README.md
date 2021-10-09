@@ -1,12 +1,13 @@
-# docsDrone
+# Documentos para volar drones en Colombia
 
 Este repositorio contiene los documentos necesarios para poderse registrarse como Explotador y Operador de drones en Colombia ante la Aerocivil.
+Igualmente, tiene los documentos para hacer la solicitud de vuelo, el cual implica tener un manual de operaciones.
 
 ## Licencia de los documentos
 
 Estos documentos son libres bajo la licencia CreativeCommons Shared Alike.
 Esto quiere decir que los puedes usar y hacer modificaciones, siempre y cuando dichas modificaciones se vuelvan a compartir de la misma forma.
-Para mayor información puedes ver el archivo de Licencia: LICENCIA.md.
+Para mayor información puedes ver el archivo de Licencia: [LICENCIA.md](https://github.com/MaptimeBogota/docsDrone/blob/main/LICENCIA.md).
 
 ## Equipo de trabajo
 
