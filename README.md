@@ -30,7 +30,7 @@ Como parte de estos documentos tenemos:
   * Esta documentación está bajo el directorio [reglamentación](https://github.com/MaptimeBogota/docsDrone/tree/main/reglamentacion).
   * Corresponde a los documentos legales que se han emitido en Colombia.
 * Documentos para registro como piloto.
-  * Está en el [wiki - Solicitud de inclusión de operadores de la Aerocivil](https://github.com/MaptimeBogota/docsDrone/wiki/2A-Proceso-de-Solicitud-de- inclusi%C3%B3n-de-operadores-de-la-Aerocivil).
+  * Está en el [wiki - Solicitud de inclusión de operadores de la Aerocivil](https://github.com/MaptimeBogota/docsDrone/wiki/2A-Proceso-de-Solicitud-de-inclusi%C3%B3n-de-operadores-de-la-Aerocivil).
   * Igualmente está el formato oficial y una versión propia de este proyecto bajo el directio [formatos](https://github.com/MaptimeBogota/docsDrone/tree/main/formatos).
 * Documentos para registro de UAS.
   * Está en el [wiki - Solicitud de inclusión de operadores de la Aerocivil](https://github.com/MaptimeBogota/docsDrone/wiki/2A-Proceso-de-Solicitud-de-inclusi%C3%B3n-de-operadores-de-la-Aerocivil).
