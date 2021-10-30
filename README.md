@@ -24,8 +24,6 @@ Como parte de estos documentos tenemos:
 
 * Manual de operación.
   * Está en el [wiki - Manual de Operaciones y Mantenimiento](https://github.com/MaptimeBogota/docsDrone/wiki/1-Manual-de-Operaciones-y-Mantenimiento).
-* Matriz de riesgos.
-  * ToDo
 * Apéndices y documentación necesaria para el registro como Explotador de UAS/Drones ante Aerocivil.
   * Esta documentación está bajo el directorio [reglamentación](https://github.com/MaptimeBogota/docsDrone/tree/main/reglamentacion).
   * Corresponde a los documentos legales que se han emitido en Colombia.
@@ -38,6 +36,8 @@ Como parte de estos documentos tenemos:
 * Documentos para solicitud de vuelo.
   * Está en el [wiki - Solicitud de misión de vuelo](https://github.com/MaptimeBogota/docsDrone/wiki/3A-Proceso-de-Solicitud-de-misi%C3%B3n-de-vuelo).
   * Igualmente está el formato oficial y una versión propia de este proyecto bajo el directio [formatos](https://github.com/MaptimeBogota/docsDrone/tree/main/formatos).
+* Matriz de riesgos.
+  * ToDo
 
 Para cada formulario hay ejemplos de estos con todos los campos diligenciados.
 Todos los ejemplos están bajo un [directorio con el mismo nombre](https://github.com/MaptimeBogota/docsDrone/tree/main/ejemplos).
