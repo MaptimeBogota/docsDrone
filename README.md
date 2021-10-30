@@ -52,6 +52,6 @@ En el wiki están descritos estos procesos:
 
 # Notas
 
-Debido a que este es un proyecto de pilotos de drones, donde los documentos están en continua modificación puede que encuentres la siguiente palabra en varios lugares: ToDo.
-Esto quiere decir en inglés: Para Hacer.
-Por lo tanto, puede contribuir en dichas áreas para mejorar el documento.
+Debido a que este es un proyecto de pilotos de drones, donde los documentos están en continua modificación puede que encuentres la siguiente palabra en varios lugares: "ToDo".
+Esto quiere decir en inglés: "Para Hacer".
+Por lo tanto, puedes contribuir en dichas áreas para mejorar los documentos.
