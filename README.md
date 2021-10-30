@@ -40,7 +40,7 @@ Como parte de estos documentos tenemos:
   * ToDo
 
 Para cada formulario hay ejemplos de estos con todos los campos diligenciados.
-Todos los ejemplos están bajo un [directorio con el mismo nombre](https://github.com/MaptimeBogota/docsDrone/tree/main/ejemplos).
+Estos ejemplos están bajo [el directorio ejemplos](https://github.com/MaptimeBogota/docsDrone/tree/main/ejemplos).
 
 # Procesos
 
