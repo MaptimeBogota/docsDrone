@@ -11,7 +11,7 @@ Para mayor información puedes ver el archivo de Licencia: [LICENCIA.md](https:/
 
 ## Equipo de trabajo
 
-Los documentos aquí presentados buscan ser genéricos, pero el objetivo que tenemos es para la operación de un drone:
+Los documentos aquí presentados buscan ser genéricos, pero el objetivo que tenemos es para la operación de un dron:
 
 * dji Mavic Air II
 
@@ -44,8 +44,8 @@ Estos ejemplos están bajo [el directorio ejemplos](https://github.com/MaptimeBo
 
 # Procesos
 
-El proceso de registro y de vuelo de drones requiere un proceso en el que incluye tener unos documentos.
-En el wiki están descritos los procesos necesarios.
+Para poder volar un dron se requiere realizar procesos en el que incluye tener unos documentos a mano.
+En el wiki están descritos estos procesos:
 
 * Proceso de registro como explotador y operador / piloto de drones. Esto incluye el registro de drones.
 * Proceso de solicitud de vuelo.
